@@ -1,0 +1,17 @@
+C:\Users\LouisevanAlst\Documents\0. Other\SenT\ConnectFour\ConnectFour\bin\Debug\net6.0\ConnectFour.exe
+C:\Users\LouisevanAlst\Documents\0. Other\SenT\ConnectFour\ConnectFour\bin\Debug\net6.0\ConnectFour.deps.json
+C:\Users\LouisevanAlst\Documents\0. Other\SenT\ConnectFour\ConnectFour\bin\Debug\net6.0\ConnectFour.runtimeconfig.json
+C:\Users\LouisevanAlst\Documents\0. Other\SenT\ConnectFour\ConnectFour\bin\Debug\net6.0\ConnectFour.dll
+C:\Users\LouisevanAlst\Documents\0. Other\SenT\ConnectFour\ConnectFour\bin\Debug\net6.0\ConnectFour.pdb
+C:\Users\LouisevanAlst\Documents\0. Other\SenT\ConnectFour\ConnectFour\obj\Debug\net6.0\ConnectFour.csproj.AssemblyReference.cache
+C:\Users\LouisevanAlst\Documents\0. Other\SenT\ConnectFour\ConnectFour\obj\Debug\net6.0\ConnectFour.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LouisevanAlst\Documents\0. Other\SenT\ConnectFour\ConnectFour\obj\Debug\net6.0\ConnectFour.AssemblyInfoInputs.cache
+C:\Users\LouisevanAlst\Documents\0. Other\SenT\ConnectFour\ConnectFour\obj\Debug\net6.0\ConnectFour.AssemblyInfo.cs
+C:\Users\LouisevanAlst\Documents\0. Other\SenT\ConnectFour\ConnectFour\obj\Debug\net6.0\ConnectFour.csproj.CoreCompileInputs.cache
+C:\Users\LouisevanAlst\Documents\0. Other\SenT\ConnectFour\ConnectFour\obj\Debug\net6.0\ConnectFour.dll
+C:\Users\LouisevanAlst\Documents\0. Other\SenT\ConnectFour\ConnectFour\obj\Debug\net6.0\refint\ConnectFour.dll
+C:\Users\LouisevanAlst\Documents\0. Other\SenT\ConnectFour\ConnectFour\obj\Debug\net6.0\ConnectFour.pdb
+C:\Users\LouisevanAlst\Documents\0. Other\SenT\ConnectFour\ConnectFour\obj\Debug\net6.0\ConnectFour.genruntimeconfig.cache
+C:\Users\LouisevanAlst\Documents\0. Other\SenT\ConnectFour\ConnectFour\obj\Debug\net6.0\ref\ConnectFour.dll
+C:\Users\LouisevanAlst\Documents\0. Other\SenT\ConnectFour\ConnectFour\bin\Debug\net6.0\ConsoleTables.dll
+C:\Users\LouisevanAlst\Documents\0. Other\SenT\ConnectFour\ConnectFour\obj\Debug\net6.0\ConnectFour.csproj.CopyComplete
